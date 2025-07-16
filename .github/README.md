@@ -61,6 +61,7 @@ This feature demonstrates an atomic operation to ensure data integrity and consi
 
 *   **Backend:** Node.js
 *   **Database:** PostgreSQL
+*   **Database Driver**: `pg (node-postgres)` library used to connect the Node.js application to the PostgreSQL database.
 *   **CLI Interface:** `inquirer` library for interactive menus.
 *   **Architecture:**
     *   **UI Handler:** Manages all user interaction.
