@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+# This file contains sensitive credentials and should NOT be committed.
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS-generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+  "name": "firma-app",
+  "version": "1.0.0",
+  "description": "CLI aplikacija za upravljanje gradjevinskom firmom.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^12.7.0",
+    "pg": "^8.11.3"
+  }
+}
